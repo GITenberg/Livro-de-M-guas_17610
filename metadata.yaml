@@ -1,0 +1,38 @@
+_repo: Livro-de-M-guas_17610
+_version: 0.1.0
+alternative_title: Livro de Mágoas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Espanca, Florbela de Alma da Conceição
+    alias: Espanca, Florbela de Alma da Conceicao
+    birthdate: 1894
+    deathdate: 1930
+    gutenberg_agent_id: '7488'
+    url: http://www.gutenberg.org/2009/agents/7488
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Florbela_Espanca
+    - http://en.wikipedia.org/wiki/Florbela_Espanca
+description: ''
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17610'
+language: pt
+language_note: "This ebook uses a beginning of the 20th century spelling.\r\nFor a\
+  \ spelling modernization following Standard Portuguese from the beginning of the\
+  \ 21st century see: http://www.gutenberg.org/files/17610/17610-h/modern"
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\nTipografia Mauricio, Rua do Salitre, 102-A\r\n1919"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Livro de Máguas
+url: http://www.gutenberg.org/ebooks/17610
