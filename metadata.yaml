@@ -16,6 +16,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Florbela_Espanca
     - http://en.wikipedia.org/wiki/Florbela_Espanca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17610#Livro-de-M-guas
 gutenberg_issued: '2006-01-25'
 gutenberg_type: Text
 identifiers:
